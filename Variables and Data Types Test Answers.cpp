@@ -1,4 +1,4 @@
 #include stdafx
-//Fix the following statements then check the answer file
+//Here are the corrected statements
 int number = 3;
 bool Bool = true;
